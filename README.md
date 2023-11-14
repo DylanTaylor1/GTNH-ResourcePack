@@ -1,4 +1,6 @@
 # Disclaimer
-I do not claim ownership for any of this art. I simply picked the textures I liked from various resource packs and put them all together in one pack. Nearly all of the textures come from usernm and UU-Tex.
+I do not claim ownership for any of this art. I simply chose specific textures I liked from usernm and UU-Tex resourcepacks and put them into FoxTex.
 
-FoxTex are all of the textures and Charcoal GUI is a dark-mode GUI (also from UU-Tex).
+1. FoxTex: Most of the textures
+2. Charcoal GUI: Dark-mode GUI (also from UU-Tex)
+3. Modernity: Modern textures backported to 1.7.10
