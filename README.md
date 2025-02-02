@@ -1,5 +1,4 @@
-# Disclaimer
-Other than Better Click, I do not claim any ownership for this art. I simply combined specific textures from usernm, UU-Tex, and Kyff's hotbar into one "FoxTex" resourcepack.
+To install, simply download the zip files and place them in the resourcepacks folder. Other than BetterClick, I do not claim any ownership of the art. "FoxTex" is simply a personal collection of textures from usernm, UU-Tex, and Kyff's hotbar.
 
 1. FoxTex: Personally Chosen Textures
 2. Better Click: Reduces the volume and frequency of the clicking sound.
